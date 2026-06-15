@@ -1,7 +1,5 @@
-# 1 в кмд
-git clone [https://github.com/hfghfghhfghfghfg/gfdgdf64564564565.git](https://github.com/hfghfghhfghfghfg/gfdgdf64564564565.git)
-   cd gfdgdf64564564565
-#2
+# 1 установить файлы
+#2 написать в cmd 
 pip install fastapi uvicorn sqlalchemy bcrypt starlette-session itsdangerous jinja2
 #3
 uvicorn app.main:app --reload
